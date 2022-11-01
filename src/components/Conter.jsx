@@ -9,12 +9,13 @@ const Counter = function () {
         setCount(count + 1)
     }
 
+    
      
 
     function decrement (){
         setCount(count - 1)
     }
-    
+
 
     return (
         <div>
