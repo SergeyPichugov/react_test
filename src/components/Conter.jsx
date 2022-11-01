@@ -8,6 +8,7 @@ const Counter = function () {
     function increment (){
         setCount(count + 1)
     }
+    
 
     function decrement (){
         setCount(count - 1)
