@@ -9,7 +9,7 @@ const Counter = function () {
         setCount(count + 1)
     }
 
-    // 66
+    // 6666
      
 
     function decrement (){
